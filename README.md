@@ -11,7 +11,8 @@ How important is nutrition information for today's college kids? Is their taste 
 
 # Acknowledgements
 Contributor:
-Name:   			BoraPajo
-Occupation:		Assistant Professor
-Organization:	Mercyhurst University, Erie, Pennsylvania, United States
+> Name:   			BoraPajo
+> Occupation:		Assistant Professor
+> Organization:	Mercyhurst University, Erie, Pennsylvania, United States
+
 This data set was posted on Kaggle.com under CCO Public domain license. For more info visit https://www.kaggle.com/borapajo/food-choices
